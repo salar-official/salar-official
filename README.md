@@ -2,6 +2,7 @@
   
 Hi, I’m **Salar**...  
 A Front-End Developer with expertise in:  
+- UI/UX Design with Figma for creating intuitive and user-centered interfaces.
 - HTML, CSS, and Flexbox for building modern web layouts.  
 - JavaScript for creating dynamic, interactive applications.  
 - React for developing engaging user interfaces.  
