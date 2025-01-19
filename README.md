@@ -26,6 +26,12 @@ Hi, I’m **Salar**...
   <a href="" target="_blank">  
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />  
   </a>  
+  <a href="" target="_blank">  
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />  
+  </a>
+  <a href="" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />  
+  </a>
 </p>  
 
 </div>
