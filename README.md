@@ -40,7 +40,7 @@ A dedicated Front-End Developer with a passion for designing and creating engagi
   <a href="" target="_blank">  
     <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />  
   </a>  
-  <a href="" target="_blank">  
+  <a href="www.linkedin.com/in/salar-khaje-arzani-982a7a347" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />  
   </a>  
 </p>  
