@@ -1,7 +1,7 @@
 <div dir="ltr" align="left">  
   
 Hi, I’m **Salar**...  
-## 💻 A Front-End Developer with expertise in:  
+##A Front-End Developer with expertise in:  
 - HTML, CSS, and Flexbox for building modern web layouts.  
 - JavaScript for creating dynamic, interactive applications.  
 - React for developing engaging user interfaces.  
